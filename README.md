@@ -8,7 +8,7 @@
 
 | 项目 | 内容 | 仓库状态 |
 | --- | --- | --- |
-| [FoeFlow](https://github.com/Seeleangel/FoeFlow) | 面向高校院系公众号运营的教育内容工作台 | 项目说明与案例入口；应用源码尚未同步 |
+| [FoeFlow](https://github.com/Seeleangel/FoeFlow) | 面向高校院系公众号运营的教育内容工作台 | React / TypeScript + Rust / Tauri 源码已恢复同步；含测试与许可证服务 |
 | [VioletChannel](https://github.com/Seeleangel/VioletChannel) | 个人网站与作品集 | 网站入口与说明；网站源码尚未同步 |
 
 ## 开发与课程练习
